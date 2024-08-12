@@ -1,0 +1,7 @@
+.principalDivInv {
+    display: inline; /* Layout flexbox */
+    justify-content: center; /* Alinha os itens no centro */
+    border: 1px dashed #ccc; /* Borda tracejada cinza */
+    border-radius: 10px; /* Cantos arredondados */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+}
